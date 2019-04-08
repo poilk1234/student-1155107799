@@ -16,7 +16,7 @@ Then `emacs README.md`
 
 ![Screen Shot 2019-04-08 at 19.57.40](https://ws1.sinaimg.cn/large/006tNc79gy1g1vh707sk4j311k05uwij.jpg)
 
-![Screen Shot 2019-04-08 at 19.57.46](../Desktop/Screen Shot 2019-04-08 at 19.57.46.png)
+![Screen Shot 2019-04-08 at 19.57.46](https://ws2.sinaimg.cn/large/006tNc79gy1g1vh8q3umuj31de04mad8.jpg)
 
 
 
